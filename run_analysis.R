@@ -79,7 +79,7 @@ run_analysis <- function() {
     # All steps done!
     
     # Write data
-    write.csv(final_tidy_data, file="tidydata.csv", row.names=FALSE)
+    write.csv(final_tidy_data, file="tidydata.txt", row.names=FALSE)
 
     print("Done!")
   }
