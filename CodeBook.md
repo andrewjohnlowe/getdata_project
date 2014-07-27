@@ -48,7 +48,7 @@ the subject and activity information
     + This step concludes the second part of the exercise
 5. The data is summarised by calculating the mean of each measurement, grouped 
 by activity and subject    
-6. A data file in CSV format, _tidydata.csv_, is produced in the working 
+6. A data file in CSV format, _tidydata.txt_, is produced in the working 
 directory
 
 
