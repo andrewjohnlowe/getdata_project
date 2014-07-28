@@ -46,5 +46,5 @@ Load the script with this command:
 Run the analysis with this command:
 `run_analysis()`
 
-
+_Please refer to the accompanying CodeBook file for details on what the analysis script does._
 
